@@ -12,9 +12,12 @@
     "lib.ts",
     "lib.min.js"
   ],
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/electriclief/liefs-lib.git"
+  },
   "dependencies": {
-    "@types/npm": "^2.0.28",
-    "@liefs/lib":"https://github.com/electriclief/liefs-lib.git"
+    "@types/npm": "^2.0.28"
   },
   "private": false
 }
