@@ -1,0 +1,20 @@
+{
+  "name": "@liefs/lib",
+  "version": "1.0.5",
+  "description": "Library of Functions",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stacy Lief Kelly <electriclief@gmail.com> (http://leafdriving.kissr.com)",
+  "license": "ISC",
+  "files": [
+    "lib.ts",
+    "lib.min.js"
+  ],
+  "dependencies": {
+    "@types/npm": "^2.0.28",
+    "@liefs/lib":"https://github.com/electriclief/liefs-lib.git"
+  },
+  "private": false
+}
